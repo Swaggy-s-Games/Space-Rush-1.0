@@ -1,0 +1,7 @@
+Aliens that shoot.
+Score not allignet with asteroids.
+Player gun, that can shoot the asteroids; Shoot with the SPACE bar.
+wasd Movement, you can still play with the old movement.
+Change your skin.
+
+And some other small things.
